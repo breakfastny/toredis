@@ -21,9 +21,9 @@ except ImportError:
     from setuptools import setup, find_packages
 
 setup(
-    name='toredis',
+    name='toredis-python3',
     version='0.1.2',
-    description='Really simple async Redis client for Tornado',
+    description='Really simple async Redis client for Tornado, supports at least Python 3.12 maybe higher.',
     author='Josh Marshall',
     author_email='catchjosh@gmail.com',
     url="http://github.com/mrjoes/toredis/",
