@@ -1,3 +1,5 @@
+This is the latest version of toredis from mrjoe's GitHub, which has a few unreleased updates on it that let it work with newer Pythons (e.g. 3.12).
+
 TOREDIS
 =======
 
